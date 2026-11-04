@@ -91,7 +91,7 @@ Aplicación web para registrar una orden de restaurante, consultar platillos des
 - La orden se administra en el navegador; el proyecto no guarda órdenes en el servidor.
 - Para publicar la aplicación, configura una API accesible desde internet y sustituye la URL local en `js/app.js`.
 ---
-## Autor
+## 👨‍💻 Autor 👑
 
 📞 Contacto
 - Para más información sobre el proyecto o servicios de desarrollo web: 
