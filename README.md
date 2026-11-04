@@ -15,7 +15,7 @@ Aplicación web para registrar una orden de restaurante, consultar platillos des
 
 ## 🖥️ Demo en vivo
 
-**Enlace:** [Ver demo](#)
+**Enlace:** [Ver demo](https://calcularpropinas.netlify.app/)
 
 
 ## 📸 Capturas de pantalla
