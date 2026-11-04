@@ -99,7 +99,7 @@ Aplicación web para registrar una orden de restaurante, consultar platillos des
 - ## JEB$DEV  de   Javier Berchtold.
 - ** -Desarrollador FrontEnd - **
 
-- [GitHub](https://github.com/JEB76-22)
+- Mi GitHub [GitHub](https://github.com/JEB76-22)
 - [LinkedIn](https://www.linkedin.com/in/javier-berchtold-4270a7182/)
 - [Contacto](mailto:j.e.b.inter@gmail.com)
 
