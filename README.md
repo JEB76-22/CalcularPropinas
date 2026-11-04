@@ -17,11 +17,8 @@ Aplicación web para registrar una orden de restaurante, consultar platillos des
 
 **Enlace:** [Ver demo](#)
 
-> Reemplaza el enlace anterior con la URL pública cuando publiques la aplicación. La interfaz consulta `http://localhost:3000/platillos`, por lo que para una demo pública también tendrás que publicar la API y actualizar la URL en `js/app.js`.
 
 ## 📸 Capturas de pantalla
-
-Agrega las imágenes en una carpeta `screenshots/` en la raíz del proyecto y actualiza las rutas si usas otros nombres:
 
 <!-- Captura principal de la aplicación -->
 ![Vista principal](/propina.PNG)
